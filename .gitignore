@@ -1,0 +1,27 @@
+# Backend
+resq-backend/target/
+resq-backend/.mvn/
+resq-backend/mvnw
+resq-backend/mvnw.cmd
+*.class
+*.jar
+*.log
+
+# Frontend
+resq-frontend/node_modules/
+resq-frontend/dist/
+resq-frontend/.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+.venv/
+__pycache__/
+*.pyc
